@@ -8,7 +8,7 @@ namespace Tut_App2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("UwU, World!");
+            Console.WriteLine("UwO, World!");
         }
     }
 }
